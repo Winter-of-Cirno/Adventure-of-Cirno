@@ -23,6 +23,7 @@ To run this game on your Ti-nspire calculator,you need first install Ndless on i
 
 ### key controls
 + Calculator:
+
   key|funcion
   -|-
   LSHIFT|bmob|
@@ -32,6 +33,7 @@ To run this game on your Ti-nspire calculator,you need first install Ndless on i
   *Autoshoot always enabled on the calculator mode,
    you don't need to press any key to shoot. 
 + PC:
+
   key|function|
   -|-
   Z|shoot|
