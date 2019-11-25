@@ -25,26 +25,26 @@ To run this game on your Ti-nspire calculator,you need first install Ndless on i
 + Calculator:
   key|funcion
   -|-
-  LSHIFT|bmob
-  TAB   | slow mode
+  LSHIFT|bmob|
+  TAB   | slow mode|
+  Arrow Keys/<br>NUM 8246|move|
 
   *Autoshoot always enabled on the calculator mode,
    you don't need to press any key to shoot. 
 + PC:
   key|function|
   -|-
-  Z|shoot
-  X|bmob
-  LSHIFT|slow mode
-
+  Z|shoot|
+  X|bmob|
+  LSHIFT|slow mode|
+  Arrow Keys|move|
 
 
 + Common
 
   key|funcion
   -|-
-  Arrow Keys/<br>NUMPAD 8246|move
-  LCTRL|skip dialog
-  Q|exit
-  R|restart
-  G|speed up(debug mode)
+  LCTRL|skip dialog|
+  Q|exit|
+  R|restart|
+  G|speed up(debug mode)|
