@@ -29,8 +29,8 @@ To run this game on your Ti-nspire calculator,you need to install Ndless on it f
 (*the correct name and place of the folder "game" on your calculator is essential to running.*)
 
 ### How to run this game on PCs?
-+ I have already built a windows version, if you are using windows, you can run "\Adventure-of-Cirno\Windows\release\game.exe" directly.
-+ If you are using other operating system, you can buid the project for your OS by yourself.
++ I have already built a Windows version, if you are using Windows, you can run "\Adventure-of-Cirno\Windows\release\game.exe" directly.
++ If you are using other operating systems, you can build the project for your OS by yourself.
 
 
 ### key controls
